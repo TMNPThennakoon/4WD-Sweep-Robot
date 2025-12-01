@@ -48,7 +48,8 @@ Watch the robot in action:
 
 | Front View | Side View | Top View |
 |:----------:|:---------:|:--------:|
-| ![Model 1](Media/model_1.jpg) | ![Model 2](Media/model_2.jpg) | ![Model 3 Front](Media/model_3\(front\).png) |
+| ![Model 1](Media/model_1.jpg) | ![Model 2](Media/model_2.jpg) |![model_3(front)](https://github.com/user-attachments/assets/4adfa4b5-b512-4c1c-a3b2-e3b622f72272)
+
 
 </div>
 
@@ -56,7 +57,8 @@ Watch the robot in action:
 
 <div align="center">
 
-![Running Area](Media/Running%20Area.png)
+  ![Running Area](https://github.com/user-attachments/assets/a69cd1a3-799f-4867-8c5c-9f962e46a80d)
+
 
 *The white arena with black border where the robot operates*
 
