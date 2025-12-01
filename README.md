@@ -57,8 +57,7 @@ Watch the robot in action:
 
 <div align="center">
 
-  ![Running Area](https://github.com/user-attachments/assets/a69cd1a3-799f-4867-8c5c-9f962e46a80d)
-
+![Running Area](https://github.com/user-attachments/assets/5afe05b8-e0ff-4ae7-ab7c-15af7af73fd8)
 
 *The white arena with black border where the robot operates*
 
