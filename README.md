@@ -48,7 +48,7 @@ Watch the robot in action:
 
 | Front View | Side View | Top View |
 |:----------:|:---------:|:--------:|
-| ![Model 1](Media/model_1.jpg) | ![Model 2](Media/model_2.jpg) | ![Model 3 Front](Media/model_3\(front\).HEIC) |
+| ![Model 1](Media/model_1.jpg) | ![Model 2](Media/model_2.jpg) | ![Model 3 Front](Media/model_3\(front\).png) |
 
 </div>
 
@@ -56,7 +56,7 @@ Watch the robot in action:
 
 <div align="center">
 
-![Running Area](Media/Running%20Area.HEIC)
+![Running Area](Media/Running%20Area.png)
 
 *The white arena with black border where the robot operates*
 
