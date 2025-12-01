@@ -34,9 +34,9 @@ Watch the robot in action:
 
 <div align="center">
 
-![Demo Video](Media/Demo.MP4)
+*Demo video available in the `Media/` folder (Demo.MP4)*
 
-*Click to view the demonstration video*
+> **Note:** The demonstration video is excluded from the repository due to GitHub's 100MB file size limit. It is available locally in the project's `Media/` directory.
 
 </div>
 

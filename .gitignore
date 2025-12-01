@@ -26,3 +26,6 @@ build/
 *.bak
 *.log
 
+# Large media files (exceeds GitHub's 100MB limit)
+Media/Demo.MP4
+
